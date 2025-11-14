@@ -13,7 +13,7 @@ Sample Input:
 Sample Output:
 4
 */
-package new
+package main
 
 import "fmt"
 
